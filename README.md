@@ -41,7 +41,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ## SKETCHS![1 1_page-0001](https://github.com/user-attachments/assets/fa62c15d-7a0e-40c6-861a-44501ebbc760)
 
 
-## OUTPUT![1 1_page-0001](https://github.com/user-attachments/assets/ad5a815b-6918-47cf-a3a6-1bbaadcdfdd5)
+## OUTPUT
 
 
 
